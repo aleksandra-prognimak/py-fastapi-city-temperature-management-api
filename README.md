@@ -3,7 +3,7 @@
 ## Description
 FastAPI application that manages city data and their corresponding temperature data.
 
-The application will have two main components (apps):
+The application has two main components (apps):
 - A CRUD (Create, Read, Update, Delete) API for managing city data.
 - An API that fetches current temperature data for all cities in the database and stores this data in the database.
 
